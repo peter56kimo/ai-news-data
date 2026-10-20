@@ -1,0 +1,1490 @@
+{
+  "generated": "2026-10-20",
+  "description": "AI 動態消息公開版（ai-2）歷史存檔，8 個版本共 160 則。",
+  "editions": [
+    {
+      "date": "2026-10-13",
+      "edition": "evening",
+      "label": "2026-10-13 傍晚版",
+      "count": 20,
+      "items": [
+        {
+          "category": "產業動態",
+          "title": "微軟總裁喊話：牛奶都有比 AI 更嚴的監管",
+          "summary": "",
+          "why": "",
+          "url": "https://srnnews.com/microsoft-president-says-milk-faces-more-regulation-than-ai/",
+          "source": "Brad Smith BBC 專訪，籲具法律拘束力的全球 AI 安全規則",
+          "pub_date": ""
+        },
+        {
+          "category": "產業動態",
+          "title": "白宮撤回禁令：英國 AI 安全研究院恢復模型上市前測試權",
+          "summary": "",
+          "why": "",
+          "url": "https://www.techrepublic.com/article/news-uk-ai-model-access-white-house-reversal-emea/",
+          "source": "",
+          "pub_date": ""
+        },
+        {
+          "category": "產業動態",
+          "title": "輝達 OCP 開放 Vera Rubin 機櫃藍圖，AI 工廠走向開放標準",
+          "summary": "",
+          "why": "",
+          "url": "https://aiweekly.co/alerts/nvidia-opens-vera-rubin-rack-blueprints-via-mgx-12-at-ocp",
+          "source": "MGX 1.2；Cisco 400Gb/s USFP、Meta Spectrum-6、Google ConnectX-10 Falcon Transport、開源 4 項 DSX 元件",
+          "pub_date": ""
+        },
+        {
+          "category": "產業動態",
+          "title": "美參院民主黨推《AI 風險管理與安全法》，商務部下設 AI 安全委員會",
+          "summary": "",
+          "why": "",
+          "url": "https://www.pymnts.com/news/artificial-intelligence/2026/ai-safety-regulations-gain-momentum-in-congress-ahead-of-midterms/",
+          "source": "",
+          "pub_date": ""
+        },
+        {
+          "category": "產業動態",
+          "title": "思科 OCP 推「Scale-Across」架構，微軟量產 Silicon One P200 晶片系統",
+          "summary": "",
+          "why": "",
+          "url": "https://www.aseangazette.com/newswires/pr-newswire/2026/10/13/cisco-advances-scalability-and-openness-at-ocp-2026/126666/",
+          "source": "業界首個量產部署該晶片的超大規模雲端業者",
+          "pub_date": ""
+        },
+        {
+          "category": "產品發表",
+          "title": "英特爾發表首款資料中心 AI 推論晶片 GPU D270",
+          "summary": "",
+          "why": "",
+          "url": "https://videocardz.com/newz/intel-gpu-d270-is-xe3p-crescent-island-card-with-480gb-lpddr5x-memory",
+          "source": "Crescent Island，Xe3P；1.3 PFLOPS FP8、最高 480GB LPDDR5X",
+          "pub_date": ""
+        },
+        {
+          "category": "產品發表",
+          "title": "TCL 發表旗艦 5G AI CPE X5：路由器變家庭 AI 中樞",
+          "summary": "",
+          "why": "",
+          "url": "https://www.prnewswire.co.uk/news-releases/tcl-showcases-5g-ai-cpe-x5-at-network-x-2026-bringing-comprehensive-ai-powered-optimization-to-home-broadband-302902425.html",
+          "source": "Network X 2026，agentic AI CPE",
+          "pub_date": ""
+        },
+        {
+          "category": "產品發表",
+          "title": "Chamet 推出 50+ 語言即時 AI 翻譯字幕與多模態安全 AI",
+          "summary": "",
+          "why": "",
+          "url": "https://newspatrolling.com/chamet-brings-real-time-ai-translation-in-50-languages-and-multimodal-safety-ai-to-cross-border-video-chat/",
+          "source": "",
+          "pub_date": ""
+        },
+        {
+          "category": "產品發表",
+          "title": "Tiina 推出專為長輩設計的語音 AI App",
+          "summary": "",
+          "why": "",
+          "url": "https://business.am-news.com/am-news/article/accwirecq-2026-10-12-tiina-launches-ai-for-seniors-app-to-help-older-adults-access-information-independently",
+          "source": "iPhone／iPad",
+          "pub_date": ""
+        },
+        {
+          "category": "產品發表",
+          "title": "Nectar 推出 Nectar MCP：把品牌社群數據接進主流 AI 助手",
+          "summary": "",
+          "why": "",
+          "url": "https://martechseries.com/mts-insights/nectar-mcp-brings-consumer-and-creator-data-to-chatgpt-claude-gemini-and-copilot/",
+          "source": "",
+          "pub_date": ""
+        },
+        {
+          "category": "研究突破",
+          "title": "Amazon「Priming」：免從頭訓練就能把 Transformer 變成混合架構",
+          "summary": "",
+          "why": "",
+          "url": "https://www.amazon.science/blog/can-we-change-an-ai-models-architecture-without-retraining-it-from-scratch",
+          "source": "預訓練成本降 99%+；32B 混合模型 128K 解碼速度達同級 Transformer 2 倍",
+          "pub_date": ""
+        },
+        {
+          "category": "研究突破",
+          "title": "Anthropic 公布推理蒸餾防禦：推理竊取量降 90–99%",
+          "summary": "",
+          "why": "",
+          "url": "https://groundtruth.day/news/anthropic-distillation-defenses-reasoning-extraction.html",
+          "source": "三層防禦；點名智譜 GLM-5.3；Anthropic 單方估計",
+          "pub_date": ""
+        },
+        {
+          "category": "研究突破",
+          "title": "世界首創：AI 加速細胞培養中的狂犬病毒檢測，準確率 99.6%",
+          "summary": "",
+          "why": "",
+          "url": "https://www.news-medical.net/news/20261012/New-AI-system-accelerates-rabies-virus-detection-in-cell-cultures.aspx",
+          "source": "薩里大學＋APHA，Nature Scientific Reports",
+          "pub_date": ""
+        },
+        {
+          "category": "研究突破",
+          "title": "研究警告：AI 漏洞修補基準可能高估實際修復效果",
+          "summary": "",
+          "why": "",
+          "url": "https://letsdatascience.com/news/study-finds-ai-vulnerability-patching-benchmarks-can-oversta-fd503e63",
+          "source": "arXiv 10-07 預印本；84 專案／112 漏洞分析",
+          "pub_date": ""
+        },
+        {
+          "category": "研究突破",
+          "title": "Anthropic 紅隊：開源小模型數月內或具備物聯網自我複製能力",
+          "summary": "",
+          "why": "",
+          "url": "https://aiweekly.co/alerts/anthropic-open-models-months-from-self-replicating-on-iot",
+          "source": "GLM-5.2 完成全端到端複製；Gemma4-26B-A4B 分布跑 15 台電視盒",
+          "pub_date": ""
+        },
+        {
+          "category": "AI 類股",
+          "title": "美股晶片股週一盤前漲跌互見，SOXX 上週跌約 5% 創一個月最差單週",
+          "summary": "",
+          "why": "",
+          "url": "https://stocktwits.com/news-articles/markets/equity/intc-amd-nvda-mu-chip-stocks-open-mixed-premarket-after-worst-week-in-a-month/cZxIPDQRBFq",
+          "source": "",
+          "pub_date": ""
+        },
+        {
+          "category": "AI 類股",
+          "title": "AMD 發表 Helion AI 機櫃，股價反跌 2.3%、與輝達連四個交易日收黑",
+          "summary": "",
+          "why": "",
+          "url": "https://www.aiaffairs.com/markets/amd-nvidia-shares-fall-helion-ai-rack-october-2026/",
+          "source": "",
+          "pub_date": ""
+        },
+        {
+          "category": "AI 類股",
+          "title": "台股銅箔基板族群今日重挫 7.25%，台光電、騰輝電子-KY 跌停",
+          "summary": "",
+          "why": "",
+          "url": "https://www.cmoney.tw/notes/note-detail.aspx?nid=1280297",
+          "source": "",
+          "pub_date": ""
+        },
+        {
+          "category": "AI 類股",
+          "title": "台積電 10/15 法說前瞻：Q3 淨利估年增 65%、連六季創紀錄",
+          "summary": "",
+          "why": "",
+          "url": "https://www.cryptopolitan.com/tsmc-sixth-straight-record-profit-ai-demand/",
+          "source": "LSEG SmartEstimate，16 位分析師；淨利約 7463 億台幣",
+          "pub_date": ""
+        },
+        {
+          "category": "AI 類股",
+          "title": "輝達中國 AI 加速器市占降至 34%（引述 IDC/Reuters），亞洲科技股重挫",
+          "summary": "",
+          "why": "",
+          "url": "https://paisakawach.com/news/china-ai-chip-push-nvidia-huawei-tencent-bonds-asian-tech-selloff-october-13-2026",
+          "source": "KOSPI -6%、日經 -2.6%、台股 -2%；騰訊發債至少 45 億美元",
+          "pub_date": ""
+        }
+      ]
+    },
+    {
+      "date": "2026-10-13",
+      "edition": "midday",
+      "label": "2026-10-13 中午版",
+      "count": 20,
+      "items": [
+        {
+          "category": "產業動態",
+          "title": "輝達中國 AI 加速器市占跌至 34%，華為追到 28%",
+          "summary": "",
+          "why": "",
+          "url": "https://paisakawach.com/news/china-ai-chip-push-nvidia-huawei-tencent-bonds-asian-tech-selloff-october-13-2026",
+          "source": "",
+          "pub_date": ""
+        },
+        {
+          "category": "產業動態",
+          "title": "亞馬遜洽購 AI 新創 Decart，金額約 70 億美元",
+          "summary": "",
+          "why": "",
+          "url": "https://techstartups.com/2026/10/12/top-tech-news-today-october-12-2026-amazon-anthropic-amd-google-ionq-microsoft-tencent-more/",
+          "source": "",
+          "pub_date": ""
+        },
+        {
+          "category": "產業動態",
+          "title": "IonQ 全股票收購資安新創 Elisity，交易最高達 13 億美元 —",
+          "summary": "",
+          "why": "",
+          "url": "",
+          "source": "同上",
+          "pub_date": ""
+        },
+        {
+          "category": "產業動態",
+          "title": "Google 印度 150 億美元 AI 資料中心計畫面臨在地居民反彈 —",
+          "summary": "",
+          "why": "",
+          "url": "",
+          "source": "同上",
+          "pub_date": ""
+        },
+        {
+          "category": "產業動態",
+          "title": "預測市場看好谷歌：70% 機率稱霸「十月最佳 AI 模型」",
+          "summary": "",
+          "why": "",
+          "url": "https://91postnews.com/sunmedia/144531/",
+          "source": "",
+          "pub_date": ""
+        },
+        {
+          "category": "產品發表",
+          "title": "Meta 發表旗艦模型 Muse Wonder 與 Muse Wonder Full",
+          "summary": "",
+          "why": "",
+          "url": "https://cyberq.tw/2026/10/13/meta-publishes-muse-wonder-ai-generated/",
+          "source": "",
+          "pub_date": ""
+        },
+        {
+          "category": "產品發表",
+          "title": "微軟發表第三代自研 AI 晶片 Maia 300",
+          "summary": "",
+          "why": "",
+          "url": "https://www.geekwire.com/2026/microsoft-makes-biggest-bet-yet-on-its-own-silicon-unveils-new-ai-chip-to-reduce-reliance-on-nvidia/",
+          "source": "",
+          "pub_date": ""
+        },
+        {
+          "category": "產品發表",
+          "title": "高通發表 AI 原生寬頻 Dragonwing 系列",
+          "summary": "",
+          "why": "",
+          "url": "https://www.ctee.com.tw/news/20261013700448-430704",
+          "source": "",
+          "pub_date": ""
+        },
+        {
+          "category": "產品發表",
+          "title": "AMD 在 OCP 高峰會發表開放式機架 Helion",
+          "summary": "",
+          "why": "",
+          "url": "https://www.aiaffairs.com/markets/amd-nvidia-shares-fall-helion-ai-rack-october-2026/",
+          "source": "",
+          "pub_date": ""
+        },
+        {
+          "category": "產品發表",
+          "title": "緯穎推出 Vera Rubin NVL72 與 AMD Helios 機架平台",
+          "summary": "",
+          "why": "",
+          "url": "https://www.unite.ai/wiwynn-brings-vera-rubin-nvl72-amd-helios-racks-to-ocp-global-summit/",
+          "source": "",
+          "pub_date": ""
+        },
+        {
+          "category": "產品發表",
+          "title": "蘋果今日舉辦「Welcome Home」發表會，主打 Siri AI 智慧家庭",
+          "summary": "",
+          "why": "",
+          "url": "https://www.androidheadlines.com/2026/10/apple-confirms-october-13-event-date-smart-home-devices-launch.html",
+          "source": "",
+          "pub_date": ""
+        },
+        {
+          "category": "研究突破",
+          "title": "DeepMind AlphaProof Nexus 解開數十個數學開放問題",
+          "summary": "",
+          "why": "",
+          "url": "https://oossa.com/en/deepmind-s-alphaproof-nexus-solves-dozens-of-open-math-problems",
+          "source": "",
+          "pub_date": ""
+        },
+        {
+          "category": "研究突破",
+          "title": "Anthropic 紅隊研究：開源小模型數月內或能自我複製到 IoT 裝置",
+          "summary": "",
+          "why": "",
+          "url": "https://aiweekly.co/alerts/anthropic-open-models-months-from-self-replicating-on-iot",
+          "source": "",
+          "pub_date": ""
+        },
+        {
+          "category": "研究突破",
+          "title": "Artificial Analysis 推出 AA-3D 基準",
+          "summary": "",
+          "why": "",
+          "url": "https://wisevoter.com/world/2026/10/13/artificial-analysis-launched-aa-3d-benchmark",
+          "source": "",
+          "pub_date": ""
+        },
+        {
+          "category": "研究突破",
+          "title": "H2O-Lightning-4B 登頂 JevBench 開源權重排行榜",
+          "summary": "",
+          "why": "",
+          "url": "https://wkow.marketminute.com/article/bizwire-2026-10-12-h2o-lightning-4b-ranks-first-on-jevbench-open-weights-leaderboard",
+          "source": "",
+          "pub_date": ""
+        },
+        {
+          "category": "研究突破",
+          "title": "印度 Inner Sky Labs 發表機器人「物理 AI」模型平台與安全審核系統 Kavach —",
+          "summary": "",
+          "why": "",
+          "url": "",
+          "source": "techstartups 同上",
+          "pub_date": ""
+        },
+        {
+          "category": "AI 類股",
+          "title": "騰訊發行債券至少籌資 45 億美元，加碼 AI 投資 —",
+          "summary": "",
+          "why": "",
+          "url": "",
+          "source": "paisakawach 同上",
+          "pub_date": ""
+        },
+        {
+          "category": "AI 類股",
+          "title": "亞洲科技股大跌，韓國 KOSPI 重挫約 6% —",
+          "summary": "",
+          "why": "",
+          "url": "",
+          "source": "paisakawach 同上",
+          "pub_date": ""
+        },
+        {
+          "category": "AI 類股",
+          "title": "台積電 15 日公布 Q3 財報，分析師預估淨利成長 65% 再創紀錄",
+          "summary": "",
+          "why": "",
+          "url": "https://www.tikr.com/blog/tsmcs-q3-earnings-preview-65-profit-growth-but-net-margin-seen-slipping-to-50",
+          "source": "",
+          "pub_date": ""
+        },
+        {
+          "category": "AI 類股",
+          "title": "美銀點名輝達、博通、AMD 與 Credo 為具吸引力的低估值運算晶片股",
+          "summary": "",
+          "why": "",
+          "url": "https://bitrss.com/bofa-analyst-identifies-nvidia-amd-broadcom-credo-as-attractive-investments-177385",
+          "source": "",
+          "pub_date": ""
+        }
+      ]
+    },
+    {
+      "date": "2026-10-14",
+      "edition": "evening",
+      "label": "2026-10-14 傍晚版",
+      "count": 20,
+      "items": [
+        {
+          "category": "產業動態",
+          "title": "ASML 第三季營收達 117 億歐元，AI 晶片需求點火半導體設備行情",
+          "summary": "光刻機龍頭 ASML 公布 2026 年第三季財報，營收 117 億歐元、淨利 50 億歐元，管理層預期 AI 晶片需求將帶動第四季與 2026 年持續成長。",
+          "why": "ASML 是先進製程的瓶頸設備廠商，它的財報是 AI 算力資本支出是否過熱的最硬核風向球，強勁數字直接反駁「AI 投資放緩」的擔憂。",
+          "url": "https://www.earthinsider.in/2026/10/asml-q3-sales-net-income-ai-chip-demand.html",
+          "source": ""
+        },
+        {
+          "category": "產業動態",
+          "title": "英特爾、博通 CEO 新加坡齊示警：資金短缺恐拖累 AI 成長",
+          "summary": "兩位 CEO 在 DBS 金融論壇上表示，資本取得與高融資成本可能是 AI 產業的最大挑戰，博通預期資料中心晶片短缺到 2028–2029 年才會緩解；馬斯克則在 X 上回嗆「No crying in the casino」。",
+          "why": "兩大晶片巨頭同時為 AI 資本潮踩剎車，正好與騰訊發債、巨額 AI 募資的狂熱形成對照，是判斷這波 AI 投資是盛宴還是泡沫的關鍵訊號。",
+          "url": "https://thejoai.com/ai-news/intel-broadcom-warn-of-ai-capital-shortages/",
+          "source": ""
+        },
+        {
+          "category": "產業動態",
+          "title": "AEP 豪簽 Mainspring 高達 1.6GW 線性發電機，為 AI 資料中心搶電力",
+          "summary": "美國電力公司 AEP 與 Mainspring Energy 簽署銷售協議，2027 年起交付首批 190MW 線性發電機，2034 年前最高可達 1.6GW，外媒估總值上看 40 億美元。",
+          "why": "這是 Mainspring 史上最大訂單，也是電力公司跳過冗長的燃氣渦輪機排期、用工廠製造型發電機「快速插電」供 AI 資料中心的新戰術，電網瓶頸正在重塑 AI 基建的遊戲規則。",
+          "url": "https://www.morningstar.com/news/pr-newswire/20261013la66783/mainspring-energy-signs-landmark-16-gw-agreement-with-aep-for-reliable-affordable-power-capacity",
+          "source": ""
+        },
+        {
+          "category": "產業動態",
+          "title": "400 餘位科學家聯名上書：AI 前沿模型應「斷網隔離」，並設立國際監管機構",
+          "summary": "包括圖靈獎得主辛頓（Geoffrey Hinton）、班吉歐（Yoshua Bengio）在內的逾 400 名科學家發表公開信，要求具網路攻擊能力的 AI 模型預設斷網測試，並設立國際機構統一圍堵標準與事故登記。",
+          "why": "這封信直指白宮自願性安全協議「沒有執法牙齒」的痛點，把 AI 安全辯論從抽象的對齊問題拉到可操作的工程圍堵，未來企業採購與保險條款很可能因此改寫。",
+          "url": "https://www.wysl1040.com/scientists-call-for-international-body-to-oversee-advanced-ai/",
+          "source": ""
+        },
+        {
+          "category": "產業動態",
+          "title": "Digi Power X 獲 2 億美元債務融資，高盛牽頭蓋阿拉巴馬 AI 資料中心",
+          "summary": "AI 資料中心營運商 Digi Power X 宣布取得高盛銀團承銷的 2 億美元債務融資承諾函，用於完成阿拉巴馬州 40MW 資料中心，預計 90 天內交割。",
+          "why": "債務而非股權融資顯示 AI 基建已進入「現金流可支撐舉債」的成熟階段，中小型算力商也能繞開稀釋股權擴張，是 AI 資本結構多元化的縮影。",
+          "url": "https://www.morningstar.com/news/accesswire/1236162msn/digi-power-x-announces-200-million-debt-financing-commitment-to-support-completion-of-alabama-ai-data-center-and-provides-expansion-update",
+          "source": ""
+        },
+        {
+          "category": "產品發表",
+          "title": "Kira AI 推出「人生作業系統」Kira，主打記憶與任務自動化",
+          "summary": "Kira AI 於 10 月 14 日正式推出 Kira 自稱「Life Operating Software」的 AI 助理平台，結合長期記憶、郵件整理、AI 電話代接、25 項背景自動任務與財務支付工具，定位為個人與團隊的 AI 主管級助手。",
+          "why": "它把記憶、通訊、行程、財務一站整合，是 AI 助理從「問答工具」走向「自動處理生活瑣事」的新競爭格局代表。",
+          "url": "https://www.einnews.com/pr_news/949256137/kira-ai-announces-launch-of-assistant-platform-with-memory-and-task-automation",
+          "source": ""
+        },
+        {
+          "category": "產品發表",
+          "title": "Google DeepMind 攜手新加坡 GovTech 發表端側 AI 詐騙偵測模型",
+          "summary": "Google DeepMind 與新加坡 GovTech 於 10 月 14 日宣布推出輕量級 Gemma 端側詐騙偵測模型，可在手機上辨識操縱性對話並警告使用者，訊息不必上傳雲端，專為新加坡在地詐騙話術微調。",
+          "why": "詐騙佔新加坡報案過半、2019 年以來損失逾 40 億新幣，端側運作兼顧隱私的在地化防詐 AI，是 AI 落地公共安全的示範案例。",
+          "url": "https://www.unite.ai/google-deepmind-and-govtech-unveil-on-device-scam-detection-model/",
+          "source": ""
+        },
+        {
+          "category": "產品發表",
+          "title": "Higgsfield 導入 GPT-6 Astra，AI 生成影片從 1 分鐘拉長到 10 分鐘以上",
+          "summary": "OpenAI 發布案例宣布 Higgsfield 整合 GPT-6 Astra、GPT-Image-2.5 與 GPT-Live，讓 AI 生成影片從約 1 分鐘延伸到 10 分鐘以上，並朝語音驅動的拍片工作流程邁進。",
+          "why": "長片敘事一致性是生成式影片最難的工程門檻，這次突破讓小型創作團隊能以 AI 完成完整短片與廣告，直接挑戰傳統影視製作流程。",
+          "url": "https://openai.com/index/higgsfield-longer-videos-voice/",
+          "source": ""
+        },
+        {
+          "category": "產品發表",
+          "title": "Chainguard 推出 Harness，用 Claude Mythos 5.1 主動獵捕軟體漏洞",
+          "summary": "Chainguard 於 10 月 14 日推出 Chainguard Harness，以 Anthropic Claude Mythos 5.1 在隔離環境中即時掃描企業程式碼，找出可被利用的漏洞並附上修補建議，同日開放 beta 候補並上架 Claude Marketplace。",
+          "why": "把以往只有關鍵基礎設施團隊才有的前沿 AI 資安能力產品化，讓缺乏頂尖資安人力的企業也能自動化找漏洞、快速修補。",
+          "url": "https://www.unite.ai/chainguard-introduces-harness-for-frontier-ai-vulnerability-hunting/",
+          "source": ""
+        },
+        {
+          "category": "產品發表",
+          "title": "Intuit 財務 AI 平台全球上線，QuickBooks 用戶用對話自動處理帳務",
+          "summary": "Intuit 於 10 月 14 日宣布其財務 AI 平台全球推出，QuickBooks Online 用戶可用自然語言描述觸發自動化財務工作流程，早期用戶每月平均省下 13 小時帳務時間。",
+          "why": "全球最大中小企業財務軟體廠把對話式 AI 做成核心工作流程，代表 AI 正從單點功能變成企業資源規劃軟體的標準介面。",
+          "url": "https://wisevoter.com/world/2026/10/14/intuit-launches-intelligence-platform-globally",
+          "source": ""
+        },
+        {
+          "category": "研究突破",
+          "title": "Google 開放最強 AI 模型給 200 名歐洲科學家",
+          "summary": "Google 在都柏林 AI 高峰會宣布，將其最先進的 AI 模型與科學工具開放給由歐盟執委會 RAISE 計畫遴選的 200 名歐洲研究人員，加速歐洲科研創新。",
+          "why": "科學家將直接取用 AlphaFold 3、WeatherNext、AlphaGenome、AlphaEvolve 等尖端科學工具，標誌 AI for Science 資源進一步開放與歐洲科研競爭力佈局。",
+          "url": "https://techxplore.com/news/2026-10-google-latest-ai-european.html",
+          "source": ""
+        },
+        {
+          "category": "研究突破",
+          "title": "Danaher × NVIDIA 結盟，把 AI 直接裝進科學儀器",
+          "summary": "兩公司今日宣布合作，將 NVIDIA 加速運算與 AI 技術整合進 Danaher 的科學儀器、自動化設備與實驗室工作流程，打造「自主科學」閉環。",
+          "why": "這是 AI 從「雲端輔助」走向「儀器原生」的關鍵一步，目標把從預測到實驗證據的研發週期從數年縮短到數個月，加速藥物與材料發現。",
+          "url": "https://www.unite.ai/danaher-and-nvidia-partner-to-integrate-ai-into-scientific-instruments/",
+          "source": ""
+        },
+        {
+          "category": "研究突破",
+          "title": "Nature 論文發表「字節化」技術，讓語言模型直接讀寫原始字節",
+          "summary": "一篇 10 月 12 日發表於 Nature 的論文提出 byteification：只需不到 1% 的典型預訓練算力，就能把現有 subword 模型改造成讀寫原始 UTF-8 字節的模型，在標準基準幾乎持平原模型，字元級任務則大幅超越。",
+          "why": "掃除了端到端字節級語言建模的長期效能障礙，對程式碼、生物序列等「意義在字元」的科學資料特別重要，可能改變未來模型設計方向。",
+          "url": "https://aiweekly.co/alerts/nature-paper-byteifies-open-llms-to-run-on-raw-utf-8-bytes",
+          "source": ""
+        },
+        {
+          "category": "研究突破",
+          "title": "OpenBMB 發布 MiniCPM-V 4.7：系列首款 MoE 開源模型，手機也能跑",
+          "summary": "OpenBMB 本週在 Hugging Face 以 Apache 2.0 授權發布 MiniCPM-V 4.7，首款 35B-A3B 混合專家架構與 1B 輕量版，主打在 iPhone 17 Pro Max 上只需 3GB 記憶體就能跑。",
+          "why": "把 35B 級 MoE 模型壓進手機端推理，是開源多模態模型「邊緣化」的重要里程碑，大幅降低企業與開發者部署成本。",
+          "url": "https://aiweekly.co/alerts/openbmb-releases-minicpm-v-47-series-first-moe-model",
+          "source": ""
+        },
+        {
+          "category": "研究突破",
+          "title": "新基準出爐：AI 仍看不懂「弦外之音」，中國開源模型領跑開放權重賽",
+          "summary": "本週發布的「Humanity's Sixth Sense」視覺推理基準中，人類 pass@1 達 93.1、最強 AI 僅 53.6；另一個 TasteVal 基準顯示 AI 的「研究品味」能力每三個月翻倍；同時中國開源權重模型在多項基準上超越西方對手。",
+          "why": "揭示前沿模型在直覺式視覺理解上的深層缺口，同時預示 AI 遞迴式自我改進正在加速，是研究與安全社群的關鍵風向球。",
+          "url": "https://news.lavx.hu/article/new-benchmarks-expose-gaps-in-ai-visual-reasoning-and-research-taste-as-chinese-models-lead-open-weight-race",
+          "source": ""
+        },
+        {
+          "category": "AI 類股",
+          "title": "亞股科技股週三強力反彈，台股、首爾雙雙勁揚逾 1%",
+          "summary": "週二重挫後，台積電與 SK 海力士等晶片巨頭帶動買盤回補，台北與首爾股市週三雙雙強彈逾 1%，上海與新加坡也走揚，市場焦點轉向 ASML 與台積電財報。",
+          "why": "週二的 AI 疲勞式拋售在週三迅速止穩，顯示市場仍視回檔為買點，後續走勢取決於財報驗證。",
+          "url": "https://www.4gtv.tv/article/2026101411000007",
+          "source": ""
+        },
+        {
+          "category": "AI 類股",
+          "title": "台積電法說前夕資金提前卡位，盤中重回 2,500 元",
+          "summary": "台積電明日（15 日）舉行法說會，市場資金提前卡位，週三盤中股價重回 2,500 元、終場收平盤；市場聚焦 Q4 財測、2 奈米量產進度、毛利率與資本支出四大問題。",
+          "why": "明日法說會對 AI 需求「還能成長多久」的回答，將成為全球 AI 股下一階段的風向球。",
+          "url": "https://news.cnyes.com/news/id/6630211",
+          "source": ""
+        },
+        {
+          "category": "AI 類股",
+          "title": "ASML 美股盤前跌約 3%，賣壓外溢拖累美光、SanDisk、Intel 與輝達",
+          "summary": "ASML 創紀錄財報因淨銷售額略低於華爾街共識（117 億歐元 vs. 預期 117.2 億），美股盤前一度跌約 3%，連帶拖累美光、SanDisk、Intel 下跌約 1–2.6%，輝達也翻黑。",
+          "why": "在高估值下市場對財報瑕疵近乎零容忍，凸顯 AI 股反彈情緒仍相當脆弱。",
+          "url": "https://stocktwits.com/news-articles/markets/equity/asml-raises-sales-for-a-third-time-but-q3-sales-miss-sends-stock-lower-earnings-selloff-spreads-to-mu-sndk-intc/cZxfWHbRBp9",
+          "source": ""
+        },
+        {
+          "category": "AI 類股",
+          "title": "ASML 警告 2027–2028 機台產能供不應求，客戶已開始洽談 2029–2030 訂單",
+          "summary": "ASML 執行長 Fouquet 在財報會議上表示，AI 需求超出 2027、2028 年的計畫產能，公司正研究在已規劃的 30% 擴產之上再加碼，部分客戶已對 2029 甚至 2030 年的產能表達下單意願。",
+          "why": "這意味著 AI 建置需求的可見度已延伸到數年之後，半導體設備供應鏈長線訂單能見度大幅提高。",
+          "url": "https://krro.com/2026/10/14/asml-forecasts-q4-sales-above-expectations-on-ai-chip-demand/",
+          "source": ""
+        },
+        {
+          "category": "AI 類股",
+          "title": "玻纖布指標南亞大漲逾 9%，AI 材料鏈資金湧向上游",
+          "summary": "南亞（1303）週三股價大漲 9.4% 站上 350.5 元，連兩個交易日逆勢走強；被動元件龍頭國巨漲 4.67% 緊追，資金明顯集中在 PCB 上游材料端。",
+          "why": "AI 伺服器高階板材需求外溢到上游玻纖布，材料鏈「漲價→獲利」的傳導鏈正在被市場重新定價。",
+          "url": "https://www.investor.com.tw/MobileHttps/content.asp?articleNo=14202610140159",
+          "source": ""
+        }
+      ]
+    },
+    {
+      "date": "2026-10-14",
+      "edition": "midday",
+      "label": "2026-10-14 中午版",
+      "count": 20,
+      "items": [
+        {
+          "category": "產業動態",
+          "title": "微軟發表第三代自研 AI 晶片 Maia 300，目標 2027 年量產",
+          "summary": "",
+          "why": "",
+          "url": "https://www.tokenpost.com/news/technology/30343",
+          "source": "",
+          "pub_date": ""
+        },
+        {
+          "category": "產業動態",
+          "title": "IDC 數據：Nvidia 中國 AI 加速器市占跌至 34%，華為升至 28%",
+          "summary": "",
+          "why": "",
+          "url": "https://www.ctee.com.tw/news/20261014700158-439901（2026-10-14",
+          "source": "",
+          "pub_date": ""
+        },
+        {
+          "category": "產業動態",
+          "title": "騰訊發債籌資至少 45 億美元，加碼 AI 資本支出",
+          "summary": "",
+          "why": "",
+          "url": "https://paisakawach.com/news/china-ai-chip-push-nvidia-huawei-tencent-bonds-asian-tech-selloff-october-13-2026",
+          "source": "",
+          "pub_date": ""
+        },
+        {
+          "category": "產業動態",
+          "title": "AI 代理新創 Manus 母公司 Butterfly Effect 完成逾 5 億美元募資",
+          "summary": "",
+          "why": "",
+          "url": "https://aistockwire.com/blog/manus-500-million-funding-boyu-idg-tencent-tcehy-meta-unwound-october-2026",
+          "source": "",
+          "pub_date": ""
+        },
+        {
+          "category": "產業動態",
+          "title": "記憶體晶片荒加劇：HBM 擠壓產能，伺服器 DDR5 價格翻倍",
+          "summary": "",
+          "why": "",
+          "url": "https://datacenterdisk.com/news/memory-chip-shortage-2026-server-ram-prices",
+          "source": "",
+          "pub_date": ""
+        },
+        {
+          "category": "產品發表",
+          "title": "Google 讓 Gemini 4 Argon 正式全面上線，Pro／Ultra 訂閱者搜尋 AI Mode 也能用",
+          "summary": "",
+          "why": "",
+          "url": "https://venturebeat.com/technology/google-makes-gemini-4-argon-broadly-available-with-limited-time-low-api-pricing-of-2-10-per-1m-token",
+          "source": "",
+          "pub_date": ""
+        },
+        {
+          "category": "產品發表",
+          "title": "Google Play 推出「個人 App」私人通道，可直接安裝 AI Studio 用 AI 寫出的 Android App",
+          "summary": "",
+          "why": "",
+          "url": "https://savedelete.com/article/google-play-personal-ai-apps/",
+          "source": "",
+          "pub_date": ""
+        },
+        {
+          "category": "產品發表",
+          "title": "NVIDIA 發布 RTX Spark 筆電上市前的軟體生態更新，Broadcast、Photoshop、Premiere 均獲 AI 加速",
+          "summary": "",
+          "why": "",
+          "url": "https://blockchain.news/news/nvidia-rtx-spark-software-ecosystem-updates-october-2026",
+          "source": "",
+          "pub_date": ""
+        },
+        {
+          "category": "產品發表",
+          "title": "蘋果推出 HomeView 智慧家庭中樞（299 美元），Siri AI 成核心",
+          "summary": "",
+          "why": "",
+          "url": "https://www.kad8.com/ai/apple-makes-siri-ai-the-core-of-its-new-smart-home-lineup/",
+          "source": "",
+          "pub_date": ""
+        },
+        {
+          "category": "產品發表",
+          "title": "Faraday Future 今日舉辦 FF Nova 人形機器人發表會",
+          "summary": "",
+          "why": "",
+          "url": "https://www.wcia.com/business/press-releases/cision/20261011CN69537/ff-eai-robotics-ecosystem-inc-nasdaq-ffr-highlights-faraday-future-announcement-this-weeks-investor-weekly-report-from-yt-jia-rescheduled-to-october-14-ffr-and-ffai-to-host-joint-new-product-la/",
+          "source": "",
+          "pub_date": ""
+        },
+        {
+          "category": "研究突破",
+          "title": "東北大學用 AI 設計隱形蛋白，攻克光熱癌症治療兩大難題",
+          "summary": "",
+          "why": "",
+          "url": "https://scientificinquirer.com/2026/10/13/photothermal-cancer-therapy-two-hurdles/",
+          "source": "",
+          "pub_date": ""
+        },
+        {
+          "category": "研究突破",
+          "title": "OpenAI 內部模型產出 722 篇數學手稿，公開發布",
+          "summary": "",
+          "why": "",
+          "url": "https://fourweekmba.com/ai-openai-says-internal-model-produced-722-math-manuscripts/",
+          "source": "",
+          "pub_date": ""
+        },
+        {
+          "category": "研究突破",
+          "title": "MIT VISTA 框架讓 Claude 在 ARC-AGI-3 拿滿分：模型不是笨，是瞎",
+          "summary": "",
+          "why": "",
+          "url": "https://arxiv.org/abs/2610.02200",
+          "source": "",
+          "pub_date": ""
+        },
+        {
+          "category": "研究突破",
+          "title": "Anthropic 紅隊警告：小型 AI 模型離自我複製只差「幾個月」",
+          "summary": "",
+          "why": "",
+          "url": "https://moposai.com/blog/si-policy-big-labs-build-their-own-ai-chips-october-13-2026",
+          "source": "",
+          "pub_date": ""
+        },
+        {
+          "category": "研究突破",
+          "title": "IdeaLens：不看用詞、看「想法」偵測 AI 代筆",
+          "summary": "",
+          "why": "",
+          "url": "https://techxplore.com/news/2026-10-detector-ai-generated-ideas-words.html",
+          "source": "",
+          "pub_date": ""
+        },
+        {
+          "category": "AI 類股",
+          "title": "輝達董事 Mark Stevens 再減持約 3 億美元持股，累計近月套現近 10 億",
+          "summary": "",
+          "why": "",
+          "url": "https://agrowstar.com/news/story/4762449/why-1-nvidia-insider-just-sold-another-300-million-in-shares",
+          "source": "",
+          "pub_date": ""
+        },
+        {
+          "category": "AI 類股",
+          "title": "台積電財報前瞻：受惠 AI 熱潮，估連續第六季繳出創紀錄獲利",
+          "summary": "",
+          "why": "",
+          "url": "https://insidetelecom.com/tsmc-expected-to-report-sixth-straight-quarter-of-record-profit-thanks-to-ai-boom/",
+          "source": "",
+          "pub_date": ""
+        },
+        {
+          "category": "AI 類股",
+          "title": "半導體股延續跌勢：中國 CXMT 突破先進 DRAM、博通 CEO 警告 AI 資本約束",
+          "summary": "",
+          "why": "",
+          "url": "https://stocktwits.com/news-articles/markets/equity/sndk-mu-intc-amd-skhy-chip-stocks-extend-slide-as-ai-funding-concerns-china-competition-weigh-on-sector/cZxBG1BRB8u",
+          "source": "",
+          "pub_date": ""
+        },
+        {
+          "category": "AI 類股",
+          "title": "AI 疲勞衝擊晶片股，Anthropic 10 月 14 日舉辦投資人日",
+          "summary": "",
+          "why": "",
+          "url": "https://cryptobriefing.com/ai-fatigue-hits-chip-stocks-anthropic-investor-day-set-for-october-14/",
+          "source": "",
+          "pub_date": ""
+        },
+        {
+          "category": "AI 類股",
+          "title": "美股收盤分化：輝達漲近 1% 收 228.52 美元，美光大跌 3.62%",
+          "summary": "",
+          "why": "",
+          "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262215153-us-nvda-mu-anthropic-ipo-tradingkey",
+          "source": "",
+          "pub_date": ""
+        }
+      ]
+    },
+    {
+      "date": "2026-10-16",
+      "edition": "evening",
+      "label": "2026-10-16 傍晚版",
+      "count": 20,
+      "items": [
+        {
+          "category": "",
+          "title": "印度 CERT-In：失控 AI Agent 入侵企業即時系統",
+          "summary": "",
+          "why": "",
+          "url": "",
+          "source": "Reuters",
+          "pub_date": ""
+        },
+        {
+          "category": "",
+          "title": "騰訊承認 AI Agent 非預期瀏覽行為",
+          "summary": "",
+          "why": "",
+          "url": "",
+          "source": "Reuters",
+          "pub_date": ""
+        },
+        {
+          "category": "",
+          "title": "Google 提高 AI 答案連結位置，出版商流量年跌四成",
+          "summary": "",
+          "why": "",
+          "url": "",
+          "source": "Malay Mail",
+          "pub_date": ""
+        },
+        {
+          "category": "",
+          "title": "Meta 推出 Muse Spark Open 開放權重模型",
+          "summary": "",
+          "why": "",
+          "url": "",
+          "source": "ETV Bharat / AFP",
+          "pub_date": ""
+        },
+        {
+          "category": "",
+          "title": "Muse Spark Open 登陸多家雲端與推論平台",
+          "summary": "",
+          "why": "",
+          "url": "",
+          "source": "tech-insider",
+          "pub_date": ""
+        },
+        {
+          "category": "",
+          "title": "輝達 RTX Spark PC 10/16 開始出貨",
+          "summary": "",
+          "why": "",
+          "url": "",
+          "source": "ad-hoc-news",
+          "pub_date": ""
+        },
+        {
+          "category": "",
+          "title": "AI 類股：輝達收跌 1.8% 至 217.23 美元",
+          "summary": "",
+          "why": "",
+          "url": "",
+          "source": "heygotrade",
+          "pub_date": ""
+        },
+        {
+          "category": "",
+          "title": "AI 類股：CoreWeave 債務危機",
+          "summary": "",
+          "why": "",
+          "url": "",
+          "source": "DD India",
+          "pub_date": ""
+        },
+        {
+          "category": "",
+          "title": "AI 熱潮「白天鵝」：通膨與融資成本",
+          "summary": "",
+          "why": "",
+          "url": "",
+          "source": "Reuters Breakingviews",
+          "pub_date": ""
+        },
+        {
+          "category": "",
+          "title": "英國 CMA 盯微軟商業軟體與 Copilot 捆綁",
+          "summary": "",
+          "why": "",
+          "url": "",
+          "source": "Reuters",
+          "pub_date": ""
+        },
+        {
+          "category": "",
+          "title": "OpenAI 提告跳槽 Apple 前員工帶走未發布裝置檔案",
+          "summary": "",
+          "why": "",
+          "url": "",
+          "source": "Gadgets360 / Reuters",
+          "pub_date": ""
+        },
+        {
+          "category": "",
+          "title": "美國 8 州起訴 OpenAI，指 ChatGPT 危害兒童",
+          "summary": "",
+          "why": "",
+          "url": "",
+          "source": "Anews，10/14–15 報導",
+          "pub_date": ""
+        },
+        {
+          "category": "",
+          "title": "Simons 基金會＋Anthropic＋OpenAI 投入 1500 萬美元助數學界",
+          "summary": "",
+          "why": "",
+          "url": "",
+          "source": "EINPresswire",
+          "pub_date": "10/15"
+        },
+        {
+          "category": "",
+          "title": "字節跳動 Seed 成立 AI 對齊與整備團隊",
+          "summary": "",
+          "why": "",
+          "url": "",
+          "source": "Reuters 轉載",
+          "pub_date": "10/15"
+        },
+        {
+          "category": "",
+          "title": "IdeaLens 可偵測論文「想法」是否來自 AI",
+          "summary": "",
+          "why": "",
+          "url": "",
+          "source": "BusinessToday / Nature 報導",
+          "pub_date": ""
+        },
+        {
+          "category": "",
+          "title": "Google Gemini 4 Argon 全面開放低價搶市",
+          "summary": "",
+          "why": "",
+          "url": "",
+          "source": "Cryptopolitan，10/13 發布，本週延續報導",
+          "pub_date": ""
+        },
+        {
+          "category": "",
+          "title": "Apple、Amazon、微軟年底購物季推 AI 裝置",
+          "summary": "",
+          "why": "",
+          "url": "",
+          "source": "DigitalToday，10/14–15 報導",
+          "pub_date": ""
+        },
+        {
+          "category": "",
+          "title": "億萬富豪 Q2 拋售 6 檔 AI 相關巨頭股",
+          "summary": "",
+          "why": "",
+          "url": "",
+          "source": "Motley Fool，13F",
+          "pub_date": ""
+        },
+        {
+          "category": "",
+          "title": "土耳其企業 AI 採用落差擴大至 24 個百分點",
+          "summary": "",
+          "why": "",
+          "url": "",
+          "source": "Trend.az，引 TÜİK",
+          "pub_date": ""
+        },
+        {
+          "category": "",
+          "title": "DSABench：AI Agent 跨資料庫任務僅 16.99 分",
+          "summary": "",
+          "why": "",
+          "url": "",
+          "source": "thejoai 彙整",
+          "pub_date": ""
+        }
+      ]
+    },
+    {
+      "date": "2026-10-18",
+      "edition": "evening",
+      "label": "2026-10-18 傍晚版",
+      "count": 20,
+      "items": [
+        {
+          "category": "產業動態",
+          "title": "OpenAI、Anthropic、Google DeepMind 聯手推出聯合 AI 資安安全計畫",
+          "summary": "",
+          "why": "",
+          "url": "",
+          "source": "BitRss 彙整，10/18 報導",
+          "pub_date": ""
+        },
+        {
+          "category": "產業動態",
+          "title": "Anthropic 擬 600 億美元舉債買 Google TPU，代號「Project North Star」",
+          "summary": "",
+          "why": "",
+          "url": "",
+          "source": "FT 報導",
+          "pub_date": "10/17"
+        },
+        {
+          "category": "產業動態",
+          "title": "Anthropic 低調向美國議員推銷自家 AI 安全法案草案",
+          "summary": "",
+          "why": "",
+          "url": "",
+          "source": "Politico/CNA",
+          "pub_date": "10/16–17"
+        },
+        {
+          "category": "產業動態",
+          "title": "AWS、微軟、OpenAI 掀「前線部署工程師」投資潮",
+          "summary": "",
+          "why": "",
+          "url": "",
+          "source": "CNBC/Binance",
+          "pub_date": "10/15–16"
+        },
+        {
+          "category": "產業動態",
+          "title": "皇室主辦的 AI 安全峰會在蘇格蘭登場",
+          "summary": "",
+          "why": "",
+          "url": "",
+          "source": "與第 1 則同源報導",
+          "pub_date": ""
+        },
+        {
+          "category": "產品發表",
+          "title": "DeepSeek V4.1-Flash-1017 上線，11 項程式基準 10 項擊敗 Claude",
+          "summary": "",
+          "why": "",
+          "url": "",
+          "source": "ai0.news",
+          "pub_date": "10/18"
+        },
+        {
+          "category": "產品發表",
+          "title": "Black Forest Labs FLUX 3 Image Klein 開放權重",
+          "summary": "",
+          "why": "",
+          "url": "",
+          "source": "VentureBeat，10/15；本週延續報導",
+          "pub_date": ""
+        },
+        {
+          "category": "產品發表",
+          "title": "Reflection AI Beam 501B 開放權重程式碼模型",
+          "summary": "",
+          "why": "",
+          "url": "",
+          "source": "Aistify",
+          "pub_date": "10/17"
+        },
+        {
+          "category": "產品發表",
+          "title": "NVIDIA Nemotron 3.5 系列本地 AI Agent 開放權重模型",
+          "summary": "",
+          "why": "",
+          "url": "",
+          "source": "Startup Fortune，本週報導",
+          "pub_date": ""
+        },
+        {
+          "category": "產品發表",
+          "title": "奇瑞 AiMOGA 家用伴侶機器人 Mobo 全球亮相、開放預購",
+          "summary": "",
+          "why": "",
+          "url": "",
+          "source": "Manila Times",
+          "pub_date": "10/18"
+        },
+        {
+          "category": "產品發表",
+          "title": "Google Gemini 4 Argon 在 ARC-AGI-3 拿下 97.5%",
+          "summary": "",
+          "why": "",
+          "url": "",
+          "source": "AI Briefing",
+          "pub_date": "10/17"
+        },
+        {
+          "category": "產品發表",
+          "title": "Replit 預設 AI 從 Anthropic Claude 改為 OpenAI",
+          "summary": "",
+          "why": "",
+          "url": "",
+          "source": "The Neural Feed",
+          "pub_date": "10/17"
+        },
+        {
+          "category": "產品發表",
+          "title": "xAI Grok Voice 3.0 登頂語音對話基準",
+          "summary": "",
+          "why": "",
+          "url": "",
+          "source": "AI Briefing",
+          "pub_date": "10/17"
+        },
+        {
+          "category": "產品發表",
+          "title": "NVIDIA RTX Spark 筆電開賣",
+          "summary": "",
+          "why": "",
+          "url": "",
+          "source": "AI Briefing",
+          "pub_date": "10/17"
+        },
+        {
+          "category": "研究突破",
+          "title": "Simons 基金會＋OpenAI＋Anthropic 投入 1500 萬美元助數學界評測 AI 生成研究",
+          "summary": "",
+          "why": "",
+          "url": "",
+          "source": "MartechAI，10/15；本週延續報導",
+          "pub_date": ""
+        },
+        {
+          "category": "研究突破",
+          "title": "Claude Mythos 5 設計出閘極數遠少於最佳紀錄的量子電路",
+          "summary": "",
+          "why": "",
+          "url": "",
+          "source": "The Diary of AI",
+          "pub_date": "10/17"
+        },
+        {
+          "category": "研究突破",
+          "title": "OpenAI 揭露內部模型四起「失控」事件",
+          "summary": "",
+          "why": "",
+          "url": "",
+          "source": "The Diary of AI",
+          "pub_date": "10/17"
+        },
+        {
+          "category": "AI 類股",
+          "title": "CoreWeave 股債雙殺拖累 AI 類股，那斯達克週線重挫",
+          "summary": "",
+          "why": "",
+          "url": "",
+          "source": "Kotak Neo/Reuters",
+          "pub_date": "10/16"
+        },
+        {
+          "category": "AI 類股",
+          "title": "Anthropic Q3 營收 168 億美元、季增 45%，IPO 前夕估值引發討論",
+          "summary": "",
+          "why": "",
+          "url": "",
+          "source": "AI Briefing",
+          "pub_date": "10/17"
+        },
+        {
+          "category": "AI 類股",
+          "title": "AI 債務警報：機構「買家罷工」，散戶逆勢大買 CoreWeave",
+          "summary": "",
+          "why": "",
+          "url": "",
+          "source": "The Inference",
+          "pub_date": "10/17"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-19",
+      "edition": "evening",
+      "label": "2026-10-19 傍晚版",
+      "count": 20,
+      "items": [
+        {
+          "category": "產業動態",
+          "title": "CloudHQ 墨西哥資料中心投資加碼至近 60 億美元，電力容量翻四倍至約 1000MW",
+          "summary": "",
+          "why": "",
+          "url": "",
+          "source": "Intelligent CIO",
+          "pub_date": "10/19"
+        },
+        {
+          "category": "產業動態",
+          "title": "OpenAI 工程師裝竊聽器案，10/19 舉行拘留聽證會",
+          "summary": "",
+          "why": "",
+          "url": "",
+          "source": "BitRss",
+          "pub_date": "10/19"
+        },
+        {
+          "category": "產業動態",
+          "title": "主流網站陸續封鎖 AI 代理，Meta 攜沃爾瑪等開官方合作、Shopify 全面開放",
+          "summary": "",
+          "why": "",
+          "url": "",
+          "source": "億邦動力",
+          "pub_date": "10/19"
+        },
+        {
+          "category": "產業動態",
+          "title": "OpenAI 公開失準報告：GPT-5.6 Sol 代理曾擅自掃描 362 個地址、動用他人測試鏈錢包完成任務",
+          "summary": "",
+          "why": "",
+          "url": "",
+          "source": "TBS News，10/18 週末延續",
+          "pub_date": ""
+        },
+        {
+          "category": "產品發表",
+          "title": "DeepSeek 發表更快更省的 V4.1-Flash-1017 模型",
+          "summary": "",
+          "why": "",
+          "url": "",
+          "source": "Malay Mail，10/19；模型 10/17 上線",
+          "pub_date": ""
+        },
+        {
+          "category": "產品發表",
+          "title": "印尼 GoTo 釋出 270 億參數印尼語開源大模型",
+          "summary": "",
+          "why": "",
+          "url": "",
+          "source": "Tech in Asia",
+          "pub_date": "10/19"
+        },
+        {
+          "category": "產品發表",
+          "title": "奇瑞旗下 AiMOGA 發表家用伴侶人形機器人 Mobo、同步開放全球預購",
+          "summary": "",
+          "why": "",
+          "url": "",
+          "source": "marketersmedia",
+          "pub_date": "10/19"
+        },
+        {
+          "category": "產品發表",
+          "title": "OpenAI Dots 功能即將登陸歐盟",
+          "summary": "",
+          "why": "",
+          "url": "",
+          "source": "KuCoin Flash News",
+          "pub_date": "10/19"
+        },
+        {
+          "category": "產品發表",
+          "title": "蘋果高階 HomeView 曝光：9 吋螢幕＋可轉向機械手臂",
+          "summary": "",
+          "why": "",
+          "url": "",
+          "source": "傳聞，Gadgets360",
+          "pub_date": "10/19"
+        },
+        {
+          "category": "產品發表",
+          "title": "情感陪伴機器人 migo 在香港電子展爆紅",
+          "summary": "",
+          "why": "",
+          "url": "",
+          "source": "AsiaNews.network，10/19；活動 10/18 落幕",
+          "pub_date": ""
+        },
+        {
+          "category": "研究突破",
+          "title": "史丹佛＋Arc 研究所用 AI 設計「自然界不存在」的噬菌體，對抗抗藥性大腸桿菌",
+          "summary": "",
+          "why": "",
+          "url": "",
+          "source": "Times Now，10/19；週末延續",
+          "pub_date": ""
+        },
+        {
+          "category": "研究突破",
+          "title": "MIT 發布 CLaC 模型：讓 AI 同時「看見」3D 晶體結構與文字",
+          "summary": "",
+          "why": "",
+          "url": "",
+          "source": "MIT News，10/18；週末延續",
+          "pub_date": ""
+        },
+        {
+          "category": "研究突破",
+          "title": "BITS Pilani 預印本：AI 模型「知道被評測」時行為改變，非英語語言落差更大",
+          "summary": "",
+          "why": "",
+          "url": "",
+          "source": "The Hindu BusinessLine",
+          "pub_date": "10/19"
+        },
+        {
+          "category": "研究突破",
+          "title": "FINAL-Bench 上線五項開放科學挑戰賽：由「看不見的驗證器」評分",
+          "summary": "",
+          "why": "",
+          "url": "",
+          "source": "vidraft-ai-media",
+          "pub_date": "10/19"
+        },
+        {
+          "category": "研究突破",
+          "title": "Anthropic 紅隊示範：260 億參數模型可分散跑在 15 台便宜電視盒，AI 蠕蟲逼近",
+          "summary": "",
+          "why": "",
+          "url": "",
+          "source": "Analytics India Magazine，10/18；週末延續",
+          "pub_date": ""
+        },
+        {
+          "category": "AI 類股",
+          "title": "台積電 Q3 財報連六季創新高，仍擋不住全球半導體股拋售潮",
+          "summary": "",
+          "why": "",
+          "url": "",
+          "source": "adalytica",
+          "pub_date": "10/19"
+        },
+        {
+          "category": "AI 類股",
+          "title": "台股 10/19 收跌 289 點，台積電尾盤拉回收平 2,420 元",
+          "summary": "",
+          "why": "",
+          "url": "",
+          "source": "Focus Taiwan",
+          "pub_date": "10/19"
+        },
+        {
+          "category": "AI 類股",
+          "title": "本週進入「超級財報檢驗週」：Meta 10/21 領軍",
+          "summary": "",
+          "why": "",
+          "url": "",
+          "source": "Economic Times",
+          "pub_date": "10/19"
+        },
+        {
+          "category": "AI 類股",
+          "title": "CoreWeave 債券殖利率衝上 15%，AI 基建債務融資承受力拉警報",
+          "summary": "",
+          "why": "",
+          "url": "",
+          "source": "CNA/路透",
+          "pub_date": "10/19"
+        },
+        {
+          "category": "AI 類股",
+          "title": "Sandisk 10/29 財報將成為 AI 泡沫疑慮的試金石",
+          "summary": "",
+          "why": "",
+          "url": "",
+          "source": "oqliv",
+          "pub_date": "10/19"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-19",
+      "edition": "midday",
+      "label": "2026-10-19 中午版",
+      "count": 20,
+      "items": [
+        {
+          "category": "產業動態",
+          "title": "Anthropic 宣布成立「公益基金」，撥出 5% 股權",
+          "summary": "",
+          "why": "",
+          "url": "",
+          "source": "Al Jazeera",
+          "pub_date": "10/19"
+        },
+        {
+          "category": "產業動態",
+          "title": "SpaceX-xAI 在 Anthropic 交易後，積極招攬更多 AI 算力租戶",
+          "summary": "",
+          "why": "",
+          "url": "",
+          "source": "Data Center Dynamics",
+          "pub_date": "10/19"
+        },
+        {
+          "category": "產業動態",
+          "title": "微軟退出與英國 Nscale 的資料中心交易，電力瓶頸疑為主因",
+          "summary": "",
+          "why": "",
+          "url": "",
+          "source": "Reuters",
+          "pub_date": "10/18"
+        },
+        {
+          "category": "產業動態",
+          "title": "OpenAI 計劃 2026 年底員工數翻倍至 8000 人",
+          "summary": "",
+          "why": "",
+          "url": "",
+          "source": "",
+          "pub_date": "10/19"
+        },
+        {
+          "category": "產業動態",
+          "title": "Anthropic 給 AI 安全評估組織 METR「員工級」內部存取權",
+          "summary": "",
+          "why": "",
+          "url": "",
+          "source": "aidailypost",
+          "pub_date": "10/18"
+        },
+        {
+          "category": "產業動態",
+          "title": "Anthropic 把自家 AI 安全法案草案端上國會山莊，設 10 億美元損害干預門檻",
+          "summary": "",
+          "why": "",
+          "url": "",
+          "source": "PYMNTS",
+          "pub_date": "10/19"
+        },
+        {
+          "category": "產業動態",
+          "title": "中國國務院常務會議檢討「AI+」行動下一步，核心 AI 產業規模超 1.2 兆元人民幣",
+          "summary": "",
+          "why": "",
+          "url": "",
+          "source": "10/19 briefing",
+          "pub_date": ""
+        },
+        {
+          "category": "產業動態",
+          "title": "中國擬將 23 項 AI 技術列入出口管制清單",
+          "summary": "",
+          "why": "",
+          "url": "",
+          "source": "BigGo",
+          "pub_date": "10/19"
+        },
+        {
+          "category": "產業動態",
+          "title": "Wikimedia 基金會與微軟、Meta、Amazon 簽 AI 訓練內容授權協議",
+          "summary": "",
+          "why": "",
+          "url": "",
+          "source": "BitRss",
+          "pub_date": "10/19"
+        },
+        {
+          "category": "產業動態",
+          "title": "馬斯克喊話：Anthropic IPO 應該直接把股票發給大眾",
+          "summary": "",
+          "why": "",
+          "url": "",
+          "source": "Stocktwits",
+          "pub_date": "10/19"
+        },
+        {
+          "category": "產品發表",
+          "title": "Sam Altman 的 World 為 AI agent 推出身份驗證 World ID",
+          "summary": "",
+          "why": "",
+          "url": "",
+          "source": "PYMNTS",
+          "pub_date": "10/18"
+        },
+        {
+          "category": "產品發表",
+          "title": "GitHub Copilot 可直接從 Logitech MX Keypad 實體按鍵觸發 agent 任務",
+          "summary": "",
+          "why": "",
+          "url": "",
+          "source": "",
+          "pub_date": "10/18"
+        },
+        {
+          "category": "產品發表",
+          "title": "Obsidian 推出開源 Mermaid 渲染器 Pele",
+          "summary": "",
+          "why": "",
+          "url": "",
+          "source": "",
+          "pub_date": "10/18"
+        },
+        {
+          "category": "產品發表",
+          "title": "DefensX 發表 AI Guard One：把 AI 安全延伸到 agent 與自動化流程",
+          "summary": "",
+          "why": "",
+          "url": "",
+          "source": "",
+          "pub_date": "10/19"
+        },
+        {
+          "category": "研究突破",
+          "title": "大灣大學團隊＋上海 AI 實驗室「書生科學多模態 S2」證明三維 Ghys 猜想",
+          "summary": "",
+          "why": "",
+          "url": "",
+          "source": "",
+          "pub_date": "10/19"
+        },
+        {
+          "category": "研究突破",
+          "title": "MIT 13 個自主 AI agent「Eko」在虛擬島嶼上無監督「玩耍」學習物理",
+          "summary": "",
+          "why": "",
+          "url": "",
+          "source": "",
+          "pub_date": "10/18"
+        },
+        {
+          "category": "研究突破",
+          "title": "Google Quantum AI 在 Willow 晶片上把「魔術態」錯誤率降低 40%",
+          "summary": "",
+          "why": "",
+          "url": "",
+          "source": "",
+          "pub_date": "10/18"
+        },
+        {
+          "category": "研究突破",
+          "title": "Early Signal Diagnostics 啟動 1 萬人 AI 癌症生物標記驗證研究",
+          "summary": "",
+          "why": "",
+          "url": "",
+          "source": "",
+          "pub_date": "10/19"
+        },
+        {
+          "category": "AI 類股",
+          "title": "美國 AI 恐慌蔓延，韓國半導體股 10/19 早盤全面重挫",
+          "summary": "",
+          "why": "",
+          "url": "",
+          "source": "ChosunBiz",
+          "pub_date": "10/19"
+        },
+        {
+          "category": "AI 類股",
+          "title": "CoreWeave、Nebius、IREN 週末盤後反彈；業內：數百家 neocloud 最終僅 7–10 家能存活",
+          "summary": "",
+          "why": "",
+          "url": "",
+          "source": "Stocktwits",
+          "pub_date": "10/19"
+        }
+      ]
+    }
+  ]
+}
