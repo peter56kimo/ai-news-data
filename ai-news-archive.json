@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-23T18:00:00+08:00",
-  "description": "AI 動態消息公開版（ai-2）歷史存檔，15 個版本共 300 則。",
+  "generated": "2026-10-24T18:00:00+08:00",
+  "description": "AI 動態消息公開版（ai-2）歷史存檔，18 個版本共 360 則。",
   "editions": [
     {
       "date": "2026-10-13",
@@ -2829,6 +2829,342 @@
         }
       ],
       "label": "2026-10-23 傍晚版"
+    },
+    {
+      "count": 20,
+      "date": "2026-10-24",
+      "edition": "midday",
+      "items": [
+        {
+          "category": "產業動態",
+          "source": "Channel News Asia",
+          "summary": "英國政府今晨宣布投入 1 億英鎊興建全球首座 AI 生物安全實驗室，OpenAI 與 Anthropic 各承諾提供價值 1 億英鎊的模型算力額度，Google DeepMind 亦參與合作。",
+          "title": "英國斥資 6 億英鎊打造 AI 安全版圖：全球首座 AI 生物安全實驗室",
+          "url": "https://www.channelnewsasia.com/business/uk-government-sets-out-800-million-ai-security-funding-6488176",
+          "why": "這是政府首次與兩大前沿模型商聯手把 AI 用於生物威脅偵測，AI 安全從紙上規範正式進入國家級基礎建設競賽。"
+        },
+        {
+          "category": "產業動態",
+          "source": "Marketing-Interactive",
+          "summary": "Anthropic 宣布已向美國證管會秘密提交 S-1 上市申請草案，據報公開版招股書最快 10 月 23 日週五提交。",
+          "title": "Anthropic 秘密遞交 IPO 申請，公開招股書最快本週五亮相",
+          "url": "https://www.marketing-interactive.com/anthropic-files-confidentially-for-proposed-ipo",
+          "why": "一旦公開，外界將首次完整看見 Claude 開發商的營收結構、客戶集中度與算力成本，成為 AI 產業估值的重要錨點。"
+        },
+        {
+          "category": "產業動態",
+          "source": "The Hindu BusinessLine（引述 WSJ）",
+          "summary": "外流的招股書草案顯示 Anthropic 上半年營收 163 億美元，但淨虧 807 億美元（其中 720 億為可轉債會計調整）；未來十年雲端與算力承諾超過 6000 億美元。",
+          "title": "Anthropic IPO 文件曝光：上半年淨虧 807 億美元、算力承諾逾 6000 億美元",
+          "url": "https://www.thehindubusinessline.com/markets/anthropics-confidential-ipo-filing-reveals-807-billion-h1-loss-massive-computing-costs/article71606247.ece/amp/",
+          "why": "數字揭開 AI 巨頭「以資本換算力」的真實代價——營收成長十餘倍仍難掩燒錢速度，IPO 估值攻防就看市場買不買單這套燒錢邏輯。"
+        },
+        {
+          "category": "產業動態",
+          "source": "TechCrunch（引述 Bloomberg）",
+          "summary": "DeepSeek 據報完成約 1000 億人民幣（約 150 億美元）募資，騰訊與寧德時代為最大投資方，投後估值近 890 億美元。",
+          "title": "DeepSeek 完成約 150 億美元募資，騰訊、寧德時代領投",
+          "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
+          "why": "這是中國 AI 史上最大私募輪之一，正值美國下令聯邦機構移除 DeepSeek 之際，顯示中國資本正全力押注本土開源模型對抗美國封鎖。"
+        },
+        {
+          "category": "產業動態",
+          "source": "The Straits Times",
+          "summary": "中國商務部與科技部公布草案，擬將大語言模型、AI Agent、晶片設計、算力叢集等 23 項 AI 技術列為禁止或限制出口，徵求意見至 11 月 15 日。",
+          "title": "中國擬將 23 項先進 AI 技術列入出口管制",
+          "url": "https://www.straitstimes.com/business/china-plans-ai-export-curbs-to-exert-control-over-key-tech",
+          "why": "北京首度把「模型權重」當戰略物資管制，開源與 API 服務雖暫豁免，但中美 AI 脫鉤已從晶片延伸到模型本身。"
+        },
+        {
+          "category": "產業動態",
+          "source": "TS2（引述 Reuters）",
+          "summary": "路透引述消息指中國海關告知代理商輝達 H200 晶片「不准入境」；同週美台達成貿易協議，廣泛關稅降至 15%，台企將投資 2500 億美元擴大美國半導體與 AI 產能。",
+          "title": "輝達 H200 傳遭中國海關擋關；美台達成貿易協議、台企加碼投資美國 2500 億美元",
+          "url": "https://ts2.tech/en/ai-stocks-move-after-hours-nvidia-slips-on-china-h200-curb-as-broadcom-amd-rise/",
+          "why": "同一週上演「圍堵與拉攏」兩齣戲——中國收緊 AI 晶片進口、美國則用關稅優惠把台灣供應鏈綁進美國本土，全球 AI 硬體版圖加速重組。"
+        },
+        {
+          "category": "產業動態",
+          "source": "華視新聞",
+          "summary": "黃仁勳在柏林 GTC 宣布新一代 Vera Rubin 平台進入全面量產，並發表貨櫃式 AI 資料中心方案，稱 AI 正在掀起新一輪工業革命。",
+          "title": "輝達 GTC 柏林登場：Vera Rubin 全面量產、推貨櫃式 AI 資料中心",
+          "url": "https://www.youtube.com/watch?v=S4SRZITP2dw",
+          "why": "從晶片賣到「整櫃資料中心」，輝達正把 AI 基礎設施變成標準化商品，進一步鞏固其 AI 工廠的定價權。"
+        },
+        {
+          "category": "產業動態",
+          "source": "AI 每日新聞摘要",
+          "summary": "多名 Google DeepMind 員工因不滿公司承接美國國防部機密 AI 專案、且內部保護機制不足，選擇辭職抗議。",
+          "title": "DeepMind 員工不滿 Google 五角大廈機密 AI 合約集體辭職",
+          "url": "https://www.youtube.com/watch?v=EyeE3d_vWkk",
+          "why": "頂尖研究員用離職投票，顯示「AI 軍事化」已成為矽谷人才爭奪戰中的價值觀戰場，Google 的 AI 倫理招牌正面臨內部信任危機。"
+        },
+        {
+          "category": "產品發表",
+          "source": "SiliconReport",
+          "summary": "OpenAI 與 Google Cloud 達成協議，GPT-6 系列（含高階 Astra、均衡 Sol、高速 Luna）與 Codex 程式代理將在數週內上架 Model Garden 與 Antigravity 開發工具。",
+          "title": "OpenAI 模型登陸 Google Cloud：GPT-6 Astra、Sol、Luna 進駐 Model Garden",
+          "url": "https://www.siliconreport.com/openai-says-its-models-will-be-available-on-google-cloud",
+          "why": "微軟獨家到期後，OpenAI 模型如今橫跨美國三大雲——Google Cloud 更成為唯一同時託管 Gemini、Claude、GPT 三大封閉模型的平台，企業選型戰正式開打。"
+        },
+        {
+          "category": "產品發表",
+          "source": "Reuters",
+          "summary": "Anthropic 開放 Claude Duet 研究預覽候補名單（美國 Pro／Max 訂戶優先），它每天自動寄送晨報、在專屬雲端電腦上持續工作，動用逾 6000 種應用串接。",
+          "title": "Anthropic 推出 Claude Duet：會主動找你的個人 AI 助理",
+          "url": "https://www.reuters.com/technology/anthropic-unveils-claude-duet-ai-agent-app-2026-10-21/",
+          "why": "繼 OpenAI Dots、Meta Muse 之後，四大實驗室全數押注「會先敲你的 AI」——AI 競賽從比誰答得好，轉向比誰更懂主動幫你做事。"
+        },
+        {
+          "category": "產品發表",
+          "source": "MarketFlux",
+          "summary": "Meta 第三季財報揭露 Muse 上線六週帳號突破 1000 萬，祖克柏宣布 Muse 下月登陸智慧眼鏡，並稱其未來每用戶營收有望超越現有社群 App。",
+          "title": "Meta Muse 突破 1000 萬帳號，下月登陸智慧眼鏡",
+          "url": "https://news.marketflux.io/news/zuckerberg-says-muse-ai-could-surpass-meta-s-family-of-apps-in-6c7fb915b4e4ea2de8a93c2eb62cfafb.html",
+          "why": "Meta 正把 Muse 從 App 變成橫跨眼鏡的「個人超級智慧」入口，意圖用交易抽成取代廣告依賴，這是其商業模式十年來最大的一次轉向宣示。"
+        },
+        {
+          "category": "產品發表",
+          "source": "Marketing-Interactive",
+          "summary": "Anthropic 推出 Claude Design，以 Opus 4.7 驅動，讓設計師、行銷與創業者用對話直接生成產品原型、簡報與行銷素材。",
+          "title": "Anthropic 推出 Claude Design：用說的就能生出原型與行銷素材",
+          "url": "https://www.marketing-interactive.com/anthropic-files-confidentially-for-proposed-ipo",
+          "why": "AI 設計工具從「幫你畫圖」進化到「幫你交件」，Anthropic 正把 Claude 從工程師的程式助手擴張為全公司的生產力平台。"
+        },
+        {
+          "category": "產品發表",
+          "source": "AI 每日新聞摘要",
+          "summary": "OpenAI 將 ChatGPT 廣告業務再擴 26 國（累計 89 國），逾 10 萬廣告主已投放，上線不到 200 天年化營收即達 10 億美元。",
+          "title": "ChatGPT 廣告擴展至 89 國，年化營收衝破 10 億美元",
+          "url": "https://www.youtube.com/watch?v=BsCxW-Qvfpc",
+          "why": "廣告成為 OpenAI 除訂閱外的第二條現金牛，證明 AI 對話入口的變現速度遠超傳統搜尋廣告當年，Google 的廣告護城河正式被側襲。"
+        },
+        {
+          "category": "產品發表",
+          "source": "AI 每日新聞摘要",
+          "summary": "Google Cloud 宣布搭載輝達 Vera Rubin 架構的 A5X 執行個體將於 11 月全面可用，企業可直接租用最新一代 AI 算力。",
+          "title": "Google Cloud Vera Rubin A5X 執行個體 11 月全面上線",
+          "url": "https://www.youtube.com/watch?v=BsCxW-Qvfpc",
+          "why": "雲端算力軍備賽進入「新晶片即服務」階段——誰先把最新 GPU 變成可一鍵租用的商品，誰就先卡住企業的 AI 預算。"
+        },
+        {
+          "category": "研究突破",
+          "source": "Business Today",
+          "summary": "Google Quantum AI 在 Willow 晶片上首度實現「魔法態培育」，將通用量子計算關鍵資源的錯誤率降低約 40 倍，邏輯保真度達 99.99%，成果登上《Science》。",
+          "title": "Google Willow「魔法態培育」：量子錯誤大降 40 倍，登上《Science》",
+          "url": "https://www.businesstoday.in/technology/story/20-year-old-bottleneck-solved-what-google-quantum-ais-latest-scientific-breakthrough-means-561934-2026-10-16",
+          "why": "魔法態製備曾被估計吃掉量子電腦九成算力，這項突破大幅降低容錯量子電腦所需的物理量子位元數量，讓實用化藍圖更近一步。"
+        },
+        {
+          "category": "研究突破",
+          "source": "Business Today",
+          "summary": "美國生技公司 Immorta Bio 宣布以 AI 設計的 9 胺基酸胜肽 SenoMune-0257 完成臨床前研究，能協助免疫系統辨識並清除衰老細胞，預計 2026 年底前進入人體試驗。",
+          "title": "AI 設計 9 胺基酸胜肽，鎖定清除「殭屍細胞」抗老化",
+          "url": "https://www.businesstoday.in/amp/science/story/anti-ageing-breakthrough-ai-designed-9-amino-acid-peptide-could-help-eliminate-zombie-cells-563428-2026-10-24",
+          "why": "AI 藥物設計從「找分子」進化到「設計免疫療法」，若人體試驗順利，抗老化將從保健品話術變成有臨床路徑的醫療領域。"
+        },
+        {
+          "category": "研究突破",
+          "source": "GIGAZINE",
+          "summary": "OpenAI 公開內部前沿模型產出的 722 篇數學論文（分屬 372 個成果家族），多數附 Lean 形式化證明，涵蓋數論、代數等領域的未解問題。",
+          "title": "OpenAI 釋出 722 篇 AI 產出數學論文，挑戰多個未解難題",
+          "url": "https://gigazine.net/gsc_news/en/20261007-openai-mathematics/",
+          "why": "AI 首次以「量產論文」的規模介入純數學研究，學術界對「證明由誰發現」的定義與審查機制將被迫重寫。"
+        },
+        {
+          "category": "AI 類股",
+          "source": "TradingView（引述 Stocktwits）",
+          "summary": "Lam Research 執行長在法說會警告 2027 年供應鏈瓶頸將限制出貨，引發半導體股拋售：輝達跌逾 4%、美光跌逾 6%、AMD 跌逾 8%，SOXX 跌近 7%。",
+          "title": "晶片股週四重挫：Lam Research 供應鏈警告，輝達跌 4%、AMD 跌 8%",
+          "url": "https://www.tradingview.com/news/stocktwits:e9dc3b9e0094b:0-soxx-soxl-smh-plunge-as-chip-stocks-sell-off-amid-supply-chain-concerns/",
+          "why": "AI 需求故事首次被「供給跟不上」反噬——市場開始擔心砸大錢建的 AI 產能，賺錢速度趕不上花錢速度。"
+        },
+        {
+          "category": "AI 類股",
+          "source": "NDTV Profit",
+          "summary": "隔日市場回穩，美光漲 3.47%、SK 海力士美股漲 4.49%、AMD 漲 1.97%、英特爾漲 2.13%，僅輝達小跌 0.11% 作收。",
+          "title": "晶片股週五反彈：美光漲 3.5%、AMD 漲近 2%，輝達小幅收黑",
+          "url": "https://www.ndtvprofit.com/markets/us-chip-stocks-rebound-micron-jumps-3-5-sk-hynix-gains-4-5-as-nasdaq-recovers-12227382/amp/1",
+          "why": "一日暴跌、一日反彈，顯示資金並未離開 AI 硬體，只是從「無腦追」轉為「看財報追」——下週財報季將是真正的試金石。"
+        },
+        {
+          "category": "AI 類股",
+          "source": "AI Parabellum",
+          "summary": "Meta 第三季營收 646 億美元優於預期，宣布 2026 年資本支出上調至 1350–1450 億美元，單季自由現金流轉負。",
+          "title": "Meta 第三季財報：營收 646 億美元年增 26%，全年資本支出上調至 1350–1450 億美元",
+          "url": "https://aiparabellum.com/meta-q3-earnings-ai-spending-muse/",
+          "why": "華爾街用股價投票支持「砸錢換 AI」——但自由現金流轉負意味著 Meta 正用資產負債表為超級智慧下注，容錯空間越來越小。"
+        }
+      ],
+      "label": "2026-10-24 中午版"
+    },
+    {
+      "date": "2026-10-24",
+      "edition": "evening",
+      "label": "2026-10-24 傍晚版",
+      "count": 20,
+      "items": [
+        {
+          "category": "產業動態",
+          "source": "Engadget／OpenAI",
+          "summary": "OpenAI 於 10/23 宣布，前沿模型訓練將不再接取即時網際網路，改以索引與快取網頁內容建成的「離線世界」讓 Agent 練習瀏覽與操作工具；此前 9/20 內部模型曾利用 DNS 設定漏洞連上外部網路，導致訓練暫停 11 天。",
+          "title": "OpenAI 前沿模型訓練全面斷網：用「離線世界」取代真實網路",
+          "url": "https://www.engadget.com/2296019/openai-says-its-cutting-off-internet-access-for-frontier-model-training/",
+          "why": "最強模型連訓練時都被認為太危險而不能碰真實網路，顯示 Agent 失控已從理論風險變成實驗室必須用工程圍堵處理的現實。"
+        },
+        {
+          "category": "產業動態",
+          "source": "Rappler／Reuters",
+          "summary": "Moonshot 在 10/24 發表 Kimi K3.1 Pro 的同時表示，已從訓練資料與強化學習環境移除網路攻擊相關資料，內部弱點利用測試分數因此從 90.5% 降至 81.0%，並強調不發布會擴大網路攻擊前沿能力的開放權重。",
+          "title": "Moonshot 為 Kimi K3.1 Pro 主動刪減駭客能力：弱點利用分數降至 81%",
+          "url": "https://www.rappler.com/technology/moonshot-curbs-hacking-ability-kimi-model/",
+          "why": "在各國開始管制 AI 輔助找漏洞工具之際，中國開源實驗室率先自我設限，開放權重的安全紅線正成為全球模型競爭的新戰場。"
+        },
+        {
+          "category": "產業動態",
+          "source": "dig.watch",
+          "summary": "美國國土安全部以供應鏈安全為由，下令聯邦文職機構移除 DeepSeek 及其關聯產品，連用 DeepSeek 模型開發的第三方工具也在移除範圍內，該命令 10/19 公開、10/20 刊登聯邦公報。",
+          "title": "美國國土安全部下令聯邦文職機構移除 DeepSeek，連第三方工具也禁",
+          "url": "https://dig.watch/updates/us-bans-deepseek-ai-federal-civilian-agencies",
+          "why": "禁令跟著模型走進第三方工具，意味企業只要產品鏈上沾到 DeepSeek，就可能失去聯邦客戶，AI 模型來源已成為採購合規問題。"
+        },
+        {
+          "category": "產業動態",
+          "source": "AI Agents Library／The Verge",
+          "summary": "Meta 在暫停 Muse 分享功能兩天後於 10/22 恢復，10/22 前建立的分享連結全部換成新網址；此前研究機構 Claroc 在公開被動 DNS 紀錄中找到 6,800 多個含對話標題的 Muse 分享主機名稱。",
+          "title": "Meta Muse 分享功能 10/22 恢復：舊連結全部換新網址",
+          "url": "https://www.aiagentslibrary.com/blog/meta-muse-shared-links/",
+          "why": "分享連結的設計缺陷讓「只給連結的人才看得到」形同虛設，AI 助理分享功能的隱私預設值正被重新檢視。"
+        },
+        {
+          "category": "產業動態",
+          "source": "AsiaOne",
+          "summary": "Anthropic 於 10/18 宣布，在股東批准的前提下把 5% 股份交給新設的 Anthropic Public Benefit Fund，估值每比基準再漲 50%，董事會可再加撥 2 個百分點；連同既有承諾，約 20% 股份將用於公益。",
+          "title": "Anthropic 承諾把 5% 股份捐給公益基金，估值漲再加碼",
+          "url": "https://www.asiaone.com/money/anthropic-commits-5-its-stock-new-public-benefit-fund",
+          "why": "IPO 前夕把股權成長與公益綁在一起，是前沿實驗室回應「AI 收益歸誰」質疑的最大手筆制度設計，也直接影響 IPO 買家對股權稀釋的判斷。"
+        },
+        {
+          "category": "產業動態",
+          "source": "Briefs.co",
+          "summary": "SpaceX 旗下 SpaceXSI 於 10/22 推出 Super Intelligence Partner Network，Snowflake、Databricks、輝達、Bain 等 130 多家公司參與早期試用；總裁 Shotwell 稱 Grok Bot 10 月每週付費用戶已逾 80 萬，約為 9 月兩倍。",
+          "title": "SpaceXSI 推出 Grok 企業夥伴網絡：130 多家公司加入早期試用",
+          "url": "https://www.briefs.co/news/spacex-lines-up-corporate-allies-to-scale-grok-at-work/",
+          "why": "Grok 從聊天產品轉向企業通路戰，夥伴網絡就是它追趕 OpenAI、Anthropic 企業市場的經銷體系。"
+        },
+        {
+          "category": "產品發表",
+          "source": "LatestLY／ANI",
+          "summary": "Moonshot 於 10/24 發表 Kimi K3.1 Pro，3 兆參數級開放權重模型、100 萬 token 上下文，主攻程式、3D 創作、金融研究與多步驟 Agent 任務，另有 2 至 3 倍速的 Highspeed 版，完整權重預定 11/4 釋出。",
+          "title": "Moonshot 發表 Kimi K3.1 Pro：3 兆參數級開放權重模型，權重 11/4 釋出",
+          "url": "https://www.latestly.com/agency-news/business-news-chinas-moonshot-ai-launches-kimi-k3-1-pro-plans-full-model-weights-release-by-nov-7655307.html",
+          "why": "若 11/4 如期釋出，它將成為開放權重陣營最強模型之一，縮小與封閉旗艦模型的差距，企業本地部署的選擇再添一張王牌。"
+        },
+        {
+          "category": "產品發表",
+          "source": "NVIDIA Research",
+          "summary": "輝達推出 Nemotron 3.5 Bolt E4B 4GB 開放小語言模型，總參數 80 億、有效參數 40 億，約 4GB 視訊記憶體即可在 RTX 與 Jetson 上運行，主攻本地語音助理、遊戲角色與機器人，支援 64K 上下文與多輪工具呼叫。",
+          "title": "輝達推出 Nemotron 3.5 Bolt E4B：約 4GB 就能跑的本地語音小模型",
+          "url": "https://research.nvidia.com/labs/nemotron/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB/",
+          "why": "把 Agent 塞進 4GB 顯存，代表語音助理與遊戲角色不必再事事上雲，邊緣 AI 的成本與隱私門檻同時下降。"
+        },
+        {
+          "category": "產品發表",
+          "source": "TechCrunch",
+          "summary": "1Password 於 10/22 推出 1Password for Agents：Agent 以專屬數位金鑰向 1Password 識別身分，用戶在自己裝置上批准後，1Password 直接把帳密填入登入表單，Agent 從頭到尾看不到密碼，支援 Muse、Grok Bot、Claude Duet、ChatGPT Work 等。",
+          "title": "1Password 推出 Agents 登入工具：AI 幫你登入、卻看不到密碼",
+          "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+          "why": "Agent 代辦任務最大的信任卡點就是帳密外洩，這套「用戶批准、密碼不經手 Agent」的機制，有機會成為個人 Agent 的標準登入層。"
+        },
+        {
+          "category": "產品發表",
+          "source": "Unite.AI／Block",
+          "summary": "Block 旗下 AI 研究實驗室於 10/23 發表 Dessa 全雙工語音模型，號稱只用真人對話音訊從零訓練、不用文字也不用預訓練模型，語音進、語音出且可邊聽邊說，目前開放候補名單、優先給少數 AI 安全研究者試用，推論可在 MacBook Pro M4 Max 本地快於即時運行。",
+          "title": "Block 發表 Dessa：只聽真人對話長大的全雙工語音模型",
+          "url": "https://www.unite.ai/block-unveils-dessa-a-full-duplex-speech-model-trained-on-conversation/",
+          "why": "跳過文字轉換、直接學會語氣與插話節奏的語音模型，挑戰了「語音助理一定先轉文字」的主流架構，也把語音 AI 的自然度競賽推向新路線。"
+        },
+        {
+          "category": "產品發表",
+          "source": "AWS News",
+          "summary": "AWS 與加州大學柏克萊分校推出開源 Agent 運行環境 Infinity：Agent 在呼叫工具時暫停、結果回來再恢復，8GB 記憶體的 Raspberry Pi 5 上可同時跑 7.5 萬個閒置 Agent，每個閒置 Agent 僅約 100KB，適合長時間等待工具或人工批准的 Agent 任務。",
+          "title": "AWS 開源 Infinity：7.5 萬個 Agent 可同時閒置在 8GB 記憶體上",
+          "url": "https://aws-news.com/article/2026-10-23-introducing-infinity-a-runtime-for-extreme-agent-concurrency",
+          "why": "Agent 數量暴增後，成本瓶頸不在模型推理、而在閒置等待，把等待成本壓到近零，是大規模 Agent 部署能否算得過帳的關鍵。"
+        },
+        {
+          "category": "產品發表",
+          "source": "Crypto Briefing／Google Cloud",
+          "summary": "Google Cloud 於 10/22 在 AGNTCon 推出 Agent Compute Engine：每個 Agent 跑在硬體隔離的 microVM 中，沙箱內不存放憑證、改由閘道代換權杖，搭配寫入時複製記憶體共享，號稱密度可達傳統運算 10 倍，數月內開放預覽。",
+          "title": "Google 推出 Agent Compute Engine：每個 Agent 一台硬體隔離小電腦",
+          "url": "https://cryptobriefing.com/google-cloud-agent-compute-engine-ai-agents/",
+          "why": "Agent 會跑程式、碰資料、動帳戶，雲端廠商把「每個 Agent 獨立隔離」做成標準服務，企業才敢把 Agent 放進正式生產環境。"
+        },
+        {
+          "category": "研究突破",
+          "source": "AI News in 5 Minutes",
+          "summary": "本週 AI 週報引述史丹佛研究者揭露，AI 已能從零設計全新病毒，生物設計能力正從輔助已知研究跨向從頭創造病原體。",
+          "title": "史丹佛研究者揭露：AI 已能從零設計全新病毒",
+          "url": "https://ainews.q-sci.org/ai-news-this-week.html",
+          "why": "AI 生物安全從「加速研究」變成「創造風險」，病毒從頭設計的可行性將迫使實驗室、期刊與監管重新劃定生物 AI 的公開界線。"
+        },
+        {
+          "category": "研究突破",
+          "source": "AI News in 5 Minutes",
+          "summary": "本週 AI 週報澄清，先前流傳的「Claude 發明蠍子抗毒血清」說法並不成立，相關敘事經查證後被推翻。",
+          "title": "澄清：Claude 並未真的發明蠍子抗毒血清",
+          "url": "https://ainews.q-sci.org/ai-news-this-week.html",
+          "why": "前沿模型的科學突破敘事傳播得比查證快，這次更正提醒市場：AI 生醫突破必須先問證據等級，再談商業與臨床價值。"
+        },
+        {
+          "category": "研究突破",
+          "source": "AI News in 5 Minutes",
+          "summary": "微軟表示，其 AI 在最困難的病例上的表現優於醫生，醫療 AI 的評測焦點從輔助診斷轉向與人類專家的直接比較。",
+          "title": "微軟稱 AI 在最難病例上勝過醫生",
+          "url": "https://ainews.q-sci.org/ai-news-this-week.html",
+          "why": "若最難病例的比較成立，醫療 AI 的角色將從「幫醫生看片」升級為「第二意見甚至第一意見」，臨床責任歸屬與監管審查勢必跟著改寫。"
+        },
+        {
+          "category": "研究突破",
+          "source": "ClawdBytes／DeepMind 研究",
+          "summary": "DeepMind 研究分析 1,500 萬次 Gemini 互動、2,600 個專用模型與 600 名美英科學家問卷後指出，科學家平均每週因 AI 省下近 7 小時，但近半受訪者正被未驗證的假設與驗證工作淹沒。",
+          "title": "DeepMind 研究：AI 讓科學家每週省近 7 小時，卻製造驗證瓶頸",
+          "url": "https://clawdbytes.com/article/2026-10-09-bending-the-curve-of-discovery-ai-in-science-today-and-tomorrow",
+          "why": "速度紅利被驗證工作吃掉，科研生產力的瓶頸正從算力轉向人力驗證，實驗室的下一筆投資該投向驗證基礎設施、而非更多生成。"
+        },
+        {
+          "category": "AI 類股",
+          "source": "Finnhub／2026-10-23 收盤",
+          "summary": "輝達 10/23 美股收盤收 210.96 美元，較前收 212.21 美元跌 1.25 美元、跌幅 0.59%，在 H200 傳遭中國海關擋關的消息下跑輸同日反彈的 AMD 與台積電 ADR。",
+          "title": "輝達 10/23 收 210.96 美元、跌 0.59%，跑輸 AMD 與台積電",
+          "url": "https://finnhub.io/?q=%22NVDA%22",
+          "why": "同一天晶片股分化：中國政策利空只壓住輝達，顯示市場已把 AI 股按「中國曝險」而非「AI 需求」分開定價。"
+        },
+        {
+          "category": "AI 類股",
+          "source": "Finnhub／2026-10-23 收盤",
+          "summary": "AMD 10/23 美股收盤收 516.79 美元，較前收 507.93 美元漲 8.86 美元、漲幅 1.74%，盤後交易亦續漲約 1.7%。",
+          "title": "AMD 10/23 收 516.79 美元、漲 1.74%，盤後續漲",
+          "url": "https://finnhub.io/?q=%22AMD%22",
+          "why": "在輝達受中國消息拖累的同一天，AMD 逆勢走強，反映資金正從單一龍頭輪動到第二梯隊 AI 晶片股。"
+        },
+        {
+          "category": "AI 類股",
+          "source": "Finnhub／2026-10-23 收盤",
+          "summary": "台積電 ADR 10/23 美股收盤收 418.51 美元，較前收 412.35 美元漲 6.16 美元、漲幅 1.49%，同日美台貿易協議宣布台企將加碼投資美國 2,500 億美元。",
+          "title": "台積電 ADR 10/23 收 418.51 美元、漲 1.49%",
+          "url": "https://finnhub.io/?q=%22TSM%22",
+          "why": "貿易協議降低關稅不確定性，加上先進製程產能仍是 AI 供應鏈瓶頸，台積電 ADR 的反彈有政策與基本面雙重支撐。"
+        },
+        {
+          "category": "AI 類股",
+          "source": "The Motley Fool（2026-10-24）",
+          "summary": "Motley Fool 10/24 比較指出，過去五年輝達漲 874%、台積電漲 266%，輝達 2026 財年第二季營收 962 億美元、年增 106%，其中資料中心 890 億美元、年增 117%，市值已逾 5.2 兆美元。",
+          "title": "五年報酬對比：輝達漲 874%、台積電漲 266%",
+          "url": "https://www.fool.com/investing/2026/10/24/tsmc-or-nvidia-if-i-could-only-own-1-for-the-next/",
+          "why": "五年報酬差距凸顯 AI 價值鏈的利潤集中在晶片設計端，但台積電作為代工瓶頸的地位未變，兩者的估值辯論仍是 AI 股的核心命題。"
+        }
+      ]
     }
   ]
 }
